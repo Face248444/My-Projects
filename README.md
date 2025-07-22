@@ -2,6 +2,11 @@
 
 This is my personal CV project built using HTML and CSS.
 
-## Project URL
+## 🌐 Live Preview
 
-[Live Preview on GitHub Pages](https://face248444.github.io/My-Projects/)
+You can view it live here:  
+[https://face248444.github.io/My-Projects/](https://face248444.github.io/My-Projects/)
+
+## 📌 Roadmap Project Link
+
+This project is part of the [Single Page CV Project](https://roadmap.sh/projects/single-page-cv) on [roadmap.sh](https://roadmap.sh).
